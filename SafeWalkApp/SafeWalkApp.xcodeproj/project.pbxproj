@@ -51,6 +51,7 @@
 		B792AC2E239C3AD800CC00A5 /* SafeWalkAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SafeWalkAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B792AC32239C3AD800CC00A5 /* SafeWalkAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeWalkAppUITests.swift; sourceTree = "<group>"; };
 		B792AC34239C3AD800CC00A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B792AC40239DA7C500CC00A5 /* SafeWalkApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SafeWalkApp.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 		B792AC0D239C3AD500CC00A5 /* SafeWalkApp */ = {
 			isa = PBXGroup;
 			children = (
+				B792AC40239DA7C500CC00A5 /* SafeWalkApp.entitlements */,
 				B792AC0E239C3AD500CC00A5 /* AppDelegate.swift */,
 				B792AC10239C3AD500CC00A5 /* SceneDelegate.swift */,
 				B792AC12239C3AD500CC00A5 /* FirstViewController.swift */,
@@ -438,6 +440,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = SafeWalkApp/SafeWalkApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4W5JGR47Q6;
 				INFOPLIST_FILE = SafeWalkApp/Info.plist;
@@ -456,6 +459,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = SafeWalkApp/SafeWalkApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4W5JGR47Q6;
 				INFOPLIST_FILE = SafeWalkApp/Info.plist;
