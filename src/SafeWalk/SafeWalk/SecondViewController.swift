@@ -56,6 +56,7 @@ class SecondViewController: UIViewController {
         Areyouoklabel.isHidden = true
         yesButton.isHidden = true
         noButton.isHidden = true
+        mapView.removeOverlays(mapView.overlays)
         
         
     }

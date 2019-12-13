@@ -449,7 +449,7 @@
 		BB77633A23A1B26C00A31F75 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9N8TV7Q5Q6;
 				INFOPLIST_FILE = SafeWalk/Info.plist;
@@ -467,7 +467,7 @@
 		BB77633B23A1B26C00A31F75 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9N8TV7Q5Q6;
 				INFOPLIST_FILE = SafeWalk/Info.plist;
