@@ -58,7 +58,7 @@ class SecondViewController: UIViewController, MFMessageComposeViewControllerDele
         Areyouoklabel.isHidden = true
         yesButton.isHidden = true
         noButton.isHidden = true
-        
+        mapView.removeOverlays(mapView.overlays)
         
     }
     func setupLocationManager() {
