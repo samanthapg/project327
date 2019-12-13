@@ -30,7 +30,7 @@ class SecondViewController: UIViewController, MFMessageComposeViewControllerDele
     var timer = Timer()
     var isTimerOn = false
     var duration = 0
-    var phoneNumber = 7869731005;
+    var phoneNumber = 7873793060;
     
     @IBOutlet weak var label: UILabel!
     @IBOutlet weak var Areyouoklabel: UILabel!

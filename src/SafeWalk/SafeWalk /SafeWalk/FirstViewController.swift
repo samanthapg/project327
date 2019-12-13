@@ -92,7 +92,7 @@ class FirstViewController: UIViewController, MFMessageComposeViewControllerDeleg
         
         // Configure the fields of the interface.
         composeVC.recipients = ["7873793060"]
-        composeVC.body = "Message sent using the SafeWalk app: It's  \(String(describing: NameField.text))\(String(describing: LastNameField.text)), I am walking back home and I don't feel safe"
+        composeVC.body = "Message sent using the SafeWalk app: It's Samantha Puterman, I am walking back home and I don't feel safe"
         
         // Present the view controller modally.
         if MFMessageComposeViewController.canSendText() {
