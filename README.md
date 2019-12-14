@@ -31,6 +31,6 @@ Since we are designing an IOS app, the language we decided to go with is Swift, 
 
 The group was divided into two, one that focuses on the user inteface and the other on the map. After each group completed their respective goals and code, the next step was to implement the map design with the UI and make our tabbed application function accordingly.
 
-Link to youtube video: 
+Link to youtube video: https://youtu.be/dl6N-r6vLkY
 
 Extras:
