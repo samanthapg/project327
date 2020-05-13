@@ -1,4 +1,4 @@
-# project327
+# SafeWalk App (Project EC 327)
 Pikashu!!!
 
 - Byron Mitchell
