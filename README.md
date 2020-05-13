@@ -34,3 +34,4 @@ The group was divided into two, one that focuses on the user inteface and the ot
 Link to youtube video: https://youtu.be/dl6N-r6vLkY
 
 Extras:
+The doc folder includes the project documentation, project architecture and statement of work. 
